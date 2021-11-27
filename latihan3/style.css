@@ -1,0 +1,44 @@
+h1 {
+    color: orange;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.kotak {
+    padding: 50px;
+    width: 100px;
+    height: 50px;
+    color: #fff;
+    margin: 10px;
+    background: #0288d1;
+    float: left;
+}
+
+.kotak2 {
+    padding: 50px;
+    width: 100px;
+    height: 50px;
+    color: #fff;
+    margin: 10px;
+    background: plum;
+    float: left;
+}
+
+#kotak {
+    padding: 50px;
+    width: 100px;
+    color: #666;
+    height: 50px;
+    margin: 10px;
+    background: #f8bbd0;
+    float: left;
+}
+
+#kotak5 {
+    padding: 50px;
+    width: 100px;
+    color: #666;
+    height: 50px;
+    margin: 10px;
+    background: orange;
+    float: left;
+}
